@@ -3,8 +3,8 @@
 #include <time.h>
 #include <math.h>
 
-#define size 100
-#define max_particules 1000
+#define size 25
+#define max_particules 100
 
 int space [size][size]={0};
 
